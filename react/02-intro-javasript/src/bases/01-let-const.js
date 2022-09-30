@@ -1,7 +1,7 @@
 // Variables y Constantes
 
-const nombre = 'Fernando'
-const apellido = 'Herrera'
+const nombre = 'Julian'
+const apellido = 'Quiceno'
 
 let valorDado = 5
 valorDado = 4

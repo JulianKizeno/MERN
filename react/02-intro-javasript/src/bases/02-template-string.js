@@ -1,6 +1,6 @@
 
-const nombre = 'Fernando'
-const apellido = 'Herrera'
+const nombre = 'Julian'
+const apellido = 'Quiceno'
 
 const nombreCompleto = `
     ${nombre} 
